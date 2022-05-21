@@ -1,0 +1,20 @@
+{
+  "name": "twiter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "AxelPanicoB",
+  "license": "ISC",
+  "dependencies": {
+    "pkg": "^5.7.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
